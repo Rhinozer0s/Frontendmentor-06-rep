@@ -27,7 +27,7 @@ body {
   text-align: center;
   border-radius: 20px;
   background-color: hsl(0, 0%, 100%);
-  box-shadow: 0px 7px 20px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 7px 20px 0px rgba(0,0,0,0.1);
 }
 .card .card__qr-code {
   display: block;
